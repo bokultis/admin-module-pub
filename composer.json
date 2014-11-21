@@ -1,0 +1,8 @@
+{
+    "name": "horisen/cms-admin-pub-mod",
+    "description": "Horisen CMS admin public module",
+    "type": "horisen-cms_pub_mod",
+    "extra": {
+        "installer-name": "admin"
+    }
+}
